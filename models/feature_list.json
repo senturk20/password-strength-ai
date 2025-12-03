@@ -1,0 +1,16 @@
+[
+    "length",
+    "upper",
+    "lower",
+    "digit",
+    "special",
+    "has_common",
+    "has_upper_start",
+    "ends_with_digit",
+    "has_repeating_chars",
+    "num_unique_chars",
+    "char_type_diversity",
+    "entropy",
+    "has_sequence",
+    "longest_sequence"
+]

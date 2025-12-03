@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and notebooks
+data/
+.ipynb_checkpoints/
+
+# Environment files
+*.env
+.env
+
+# Logs and reports
+*.log
+.coverage
+htmlcov/
+
+# Build/dist
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+tmp/
+*.tmp
